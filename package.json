@@ -12,8 +12,11 @@
     "@trpc/next": "^11.6.0",
     "@trpc/react-query": "^11.6.0",
     "@trpc/server": "^11.6.0",
+    "dotenv": "^17.2.3",
+    "drizzle-orm": "^0.44.5",
     "jose": "^6.1.0",
     "next": "15.5.4",
+    "pg": "^8.16.3",
     "prettier": "^3.6.2",
     "react": "19.1.0",
     "react-dom": "19.1.0",
@@ -22,8 +25,10 @@
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
     "@types/node": "^20",
+    "@types/pg": "^8.15.5",
     "@types/react": "^19",
     "@types/react-dom": "^19",
+    "drizzle-kit": "^0.31.5",
     "tailwindcss": "^4",
     "typescript": "^5"
   }
